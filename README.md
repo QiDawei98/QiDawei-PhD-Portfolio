@@ -3,7 +3,7 @@ This repository contains my CV and supplementary materials for my PhD applicatio
 
 Included are four sample calculations from a program I developed, which fits a crystal field Hamiltonian[^1] to reproduce energy levels obtained from optical spectroscopy. This program is a wrapper for PyCrystalField[^2]. I've expanded its capabilities to include excited states, among other improvements, to make it work out of the box. I am currently preparing a manuscript on this work for publication in a peer-reviewed journal.
 
-My program for Non-Covalent Interactions index (NCI) analysis is available [here](https://github.com/QiDawei98/Flower_Lane). An example of its output is also included in this repository.
+The program for Non-Covalent Interactions index (NCI) analysis is available [here](https://github.com/QiDawei98/Flower_Lane). An example of its output is also included in this repository.
 
 For more details, please refer to the PDFs. Thank you for your consideration.
 
