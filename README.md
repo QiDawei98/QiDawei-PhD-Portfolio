@@ -9,6 +9,7 @@ A co-authored program performing Non Covalent Interactions index[^3](NCI) from V
 
 For more details, please refer to the PDFs. Thank you for your consideration.
 
+
 [^1]: Stevens K W H, 1952. Matrix Elements and Operator Equivalents Connected with the Magnetic Properties of Rare Earth Ions\[J/OL]. Proceedings of the Physical Society. Section A, 65(3): 209-215. DOI:[10.1088/0370-1298/65/3/308](https://doi.org/10.1088/0370-1298/65/3/308).
 [^2]:Scheie A, 2021. PyCrystalField: software for calculation, analysis and fitting of crystal electric field Hamiltonians\[J/OL]. Journal of Applied Crystallography, 54(1): 356-362. DOI:[10.1107/S160057672001554X](https://doi.org/10.1107/S160057672001554X).
 [^3]:Johnson E R, Keinan S, Mori-Sánchez P, et al, 2010. Revealing Non-Covalent Interactions\[J/OL]. Journal of the American Chemical Society, 132(18): 6498-6506. DOI:[10.1021/ja100936w](https://doi.org/10.1021/ja100936w).
