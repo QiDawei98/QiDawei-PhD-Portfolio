@@ -1,3 +1,5 @@
+### Update: 
+I am no longer seeking PhD opportunities. This repository is now archived.
 # QiDawei-PhD-Portfolio
 This repository contains my CV and supplementary materials for my PhD application. Below are two of my key software projects.
 
